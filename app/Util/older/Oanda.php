@@ -1,5 +1,5 @@
 <?php
-namespace Bowhead\Util;
+namespace Bowhead\Util\older;
 /**
  *  Modified by joeldg to work in bowhead boilerplate
  *  SEE https://github.com/tavurth/OandaWrap for instructions on use.

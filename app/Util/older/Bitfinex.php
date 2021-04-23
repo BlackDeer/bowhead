@@ -6,7 +6,7 @@
 # bot within this system.
 #
 
-namespace Bowhead\Util;
+namespace Bowhead\Util\older;
 
 /**
  * Class Bitfinex

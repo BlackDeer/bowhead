@@ -4,21 +4,21 @@ namespace Bowhead\Console\Commands;
 
 use AndreasGlaser\PPC\PPC;
 use Bowhead\Traits\OHLC;
+use Bowhead\Util\older\Bitfinex;
+use Bowhead\Util\older\Oanda;
+use Bowhead\Util\older\OneBroker;
+use Bowhead\Util\older\Coinbase;
 use Bowhead\Util\Whaleclub;
-use Bowhead\Util\Bitfinex;
 use Bowhead\Util\Candles;
-use Bowhead\Util\Coinbase;
 use Bowhead\Util\Indicators;
-use Bowhead\Util\Oanda;
 use Bowhead\Util\Other;
-use Bowhead\Util\OneBroker;
 use Bowhead\Util\Console;
 use Illuminate\Console\Command;
 
 /**
  * Class ExampleUsageCommand
  * @package Bowhead\Console\Commands
- *
+ *e
  *          This file is mostly to just verify that you have things working and have the
  *          keys for the API's in the right place.
  *

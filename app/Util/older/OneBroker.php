@@ -6,7 +6,7 @@
  * Time: 6:53 PM
  */
 
-namespace Bowhead\Util;
+namespace Bowhead\Util\older;
 
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\DB;
